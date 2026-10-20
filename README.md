@@ -122,25 +122,41 @@
 
 <!-- GITHUB STATS + TOP LANGUAGES -->
 
+<!-- GITHUB STACK ANALYTICS + STREAK -->
+
 <h2 align="center">S T A C K &nbsp; A N A L Y T I C S</h2>
 
 <div align="center">
   <table>
     <tr>
-      <td width="50%" align="center">
+      <!-- GitHub Stats -->
+      <td width="33%" align="center" valign="top">
         <img
           src="https://github-readme-stats.vercel.app/api?username=prathamrajak04&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=FFFFFF&icon_color=00BFFF&hide_rank=true&include_all_commits=true"
           alt="GitHub Statistics"
           width="100%"
         />
       </td>
-      <td width="50%" align="center">
+
+<!-- Most Used Languages -->
+  <td width="33%" align="center" valign="top">
         <img
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamrajak04&layout=compact&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=FFFFFF&langs_count=6"
           alt="Most Used Languages"
           width="100%"
         />
       </td>
+
+ <!-- GitHub Streak -->
+  <td width="33%" align="center" valign="middle">
+  <div align="center">
+    <img
+      src="https://streak-stats.demolab.com?user=prathamrajak04&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
+      alt="GitHub Contribution Streak"
+      width="100%"
+    />
+  </div>
+</td>
     </tr>
   </table>
 </div>
