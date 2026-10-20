@@ -11,10 +11,10 @@
     alt="Pratham Rajak — Developer Profile"
   />
 
-  <h3>SOFTWARE DEVELOPER IN PROGRESS</h3>
+  <h3>SOFTWARE DEVELOPER</h3>
 
   <p>
-    Java & C++ | Data Structures & Algorithms | Full-Stack Development | AI/ML
+    Java & Python | Data Structures & Algorithms | Full-Stack Development | AI/ML
   </p>
 
   <p>
@@ -26,24 +26,21 @@
 
 ---
 
-<!-- ================================================== -->
-<!-- 2. PROFILE VIEWS                                   -->
-<!-- ================================================== -->
 
-<div align="center">
 
-  <img
-    src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=0d1117&label=PROFILE+VIEWS"
-    alt="Profile views"
-  />
-
-</div>
 
 <!-- ================================================== -->
 <!-- 3. TECH STACK                                      -->
 <!-- ================================================== -->
 
+
+<!-- ================================================== -->
+<!-- TECH STACK                                        -->
+<!-- ================================================== -->
+
 <h2 align="center">T E C H &nbsp; S T A C K</h2>
+
+<!-- LANGUAGES -->
 
 <p align="center">
   <sub>LANGUAGES</sub>
@@ -52,34 +49,69 @@
 <div align="center">
 
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 
 </div>
 
+<!-- FRONTEND DEVELOPMENT -->
+
 <p align="center">
-  <sub>FRONTEND</sub>
+  <sub>FRONTEND DEVELOPMENT</sub>
 </p>
 
 <div align="center">
 
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
 
 </div>
 
+<!-- DATABASES -->
+
 <p align="center">
-  <sub>TOOLS & TECHNOLOGIES</sub>
+  <sub>DATABASES</sub>
+</p>
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+
+</div>
+
+<!-- TOOLS & VERSION CONTROL -->
+
+<p align="center">
+  <sub>TOOLS & VERSION CONTROL</sub>
 </p>
 
 <div align="center">
 
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+
+</div>
+
+<!-- BACKEND & RUNTIME -->
+
+<p align="center">
+  <sub>BACKEND & RUNTIME</sub>
+</p>
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+
+</div>
+
 
 </div>
 
@@ -87,22 +119,30 @@
 <!-- 4. GITHUB ANALYTICS                                -->
 <!-- ================================================== -->
 
+
+<!-- GITHUB STATS + TOP LANGUAGES -->
+
 <h2 align="center">S T A C K &nbsp; A N A L Y T I C S</h2>
 
 <div align="center">
-
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=FFFFFF&icon_color=00BFFF&hide_rank=true&include_all_commits=true"
-    alt="GitHub statistics"
-  />
-
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=FFFFFF&langs_count=6"
-    alt="Most used programming languages"
-  />
-
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=prathamrajak04&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=FFFFFF&icon_color=00BFFF&hide_rank=true&include_all_commits=true"
+          alt="GitHub Statistics"
+          width="100%"
+        />
+      </td>
+      <td width="50%" align="center">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamrajak04&layout=compact&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=FFFFFF&langs_count=6"
+          alt="Most Used Languages"
+          width="100%"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- ================================================== -->
@@ -112,11 +152,10 @@
 <h2 align="center">A C T I V I T Y &nbsp; P U L S E</h2>
 
 <div align="center">
-
-  <img
+ <img
+    src="https://ghchart.rshah.org/00BFFF/prathamrajak04"
+    alt="GitHub contribution calendar"
     width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=FFFFFF&line=00BFFF&point=FFFFFF&area=true&area_color=0A192F&hide_border=true"
-    alt="GitHub contribution activity graph"
   />
 
 </div>
@@ -134,39 +173,36 @@
 <table align="center" width="100%">
   <tr>
     <td width="33%" align="center" valign="top">
-      <a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">
+      <a href="https://github.com/prathamrajak04/IntelliSave">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_ONE&bg_color=0d1117&title_color=00BFFF&text_color=FFFFFF&icon_color=00BFFF&hide_border=true"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=prathamrajak04&repo=IntelliSave&bg_color=0d1117&title_color=00BFFF&text_color=FFFFFF&icon_color=00BFFF&hide_border=true"
           width="100%"
           alt="Project One repository card"
         />
       </a>
-      <p><strong>PROJECT ONE</strong></p>
-      <p><sub>Replace with a one-line project description.</sub></p>
+      <p><strong>IntelliSave</strong></p>
     </td>
 
-    <td width="33%" align="center" valign="top">
-      <a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">
+  <td width="33%" align="center" valign="top">
+      <a href="https://github.com/prathamrajak04/Leafmark">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_TWO&bg_color=0d1117&title_color=00BFFF&text_color=FFFFFF&icon_color=00BFFF&hide_border=true"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=prathamrajak04&repo=Leafmark&bg_color=0d1117&title_color=00BFFF&text_color=FFFFFF&icon_color=00BFFF&hide_border=true"
           width="100%"
           alt="Project Two repository card"
         />
       </a>
-      <p><strong>PROJECT TWO</strong></p>
-      <p><sub>Replace with a one-line project description.</sub></p>
+      <p><strong>Leafmark</strong></p>
     </td>
 
-    <td width="33%" align="center" valign="top">
-      <a href="https://github.com/YOUR_USERNAME/PROJECT_THREE">
+  <td width="33%" align="center" valign="top">
+      <a href="https://github.com/prathamrajak04/EpamCoE-Learning">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_THREE&bg_color=0d1117&title_color=00BFFF&text_color=FFFFFF&icon_color=00BFFF&hide_border=true"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=prathamrajak04&repo=EpamCoE-Learning&bg_color=0d1117&title_color=00BFFF&text_color=FFFFFF&icon_color=00BFFF&hide_border=true"
           width="100%"
           alt="Project Three repository card"
         />
       </a>
-      <p><strong>PROJECT THREE</strong></p>
-      <p><sub>Replace with a one-line project description.</sub></p>
+      <p><strong>EpamCoE-Learning</strong></p>
     </td>
   </tr>
 </table>
@@ -193,15 +229,15 @@
 
 <div align="center">
 
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/prathamrajak04">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/prathamrajak/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:prathamrajak95@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
