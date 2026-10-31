@@ -129,14 +129,16 @@
 <div align="center">
   <table>
     <tr>
-      <!-- GitHub Stats -->
-      <td width="33%" align="center" valign="top">
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=prathamrajak04&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=FFFFFF&icon_color=00BFFF&hide_rank=true&include_all_commits=true"
-          alt="GitHub Statistics"
-          width="100%"
-        />
-      </td>
+
+<!-- GitHub Stats -->
+<td width="33%" align="center" valign="top">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=prathamrajak04&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=FFFFFF&icon_color=00BFFF&hide_rank=true&include_all_commits=true"
+    alt="GitHub Statistics"
+    width="100%"
+  />
+</td>
+
 
 <!-- Most Used Languages -->
   <td width="33%" align="center" valign="top">
