@@ -138,17 +138,14 @@
     width="100%"
   />
 </td>
-
-
 <!-- Most Used Languages -->
-  <td width="33%" align="center" valign="top">
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamrajak04&layout=compact&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=FFFFFF&langs_count=6"
-          alt="Most Used Languages"
-          width="100%"
-        />
-      </td>
-
+<td width="33%" align="center" valign="top">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=prathamrajak04&layout=compact&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=FFFFFF&langs_count=6"
+    alt="Most Used Languages"
+    width="100%"
+  />
+</td>
  <!-- GitHub Streak -->
   <td width="33%" align="center" valign="middle">
   <div align="center">
@@ -190,27 +187,31 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="33%" align="center" valign="top">
-      <a href="https://github.com/prathamrajak04/IntelliSave">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=prathamrajak04&repo=IntelliSave&bg_color=0d1117&title_color=00BFFF&text_color=FFFFFF&icon_color=00BFFF&hide_border=true"
-          width="100%"
-          alt="Project One repository card"
-        />
-      </a>
-      <p><strong>IntelliSave</strong></p>
-    </td>
+<!-- IntelliSave -->
+<td width="33%" align="center" valign="top">
+  <a href="https://github.com/prathamrajak04/IntelliSave">
+    <img
+      src="https://github-stats-extended.vercel.app/api/pin/?username=prathamrajak04&repo=IntelliSave&theme=dark&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=FFFFFF&icon_color=00BFFF"
+      alt="IntelliSave repository card"
+      width="100%"
+    />
+  </a>
+  <br/>
+  <strong>IntelliSave</strong>
+</td>
 
-  <td width="33%" align="center" valign="top">
-      <a href="https://github.com/prathamrajak04/Leafmark">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=prathamrajak04&repo=Leafmark&bg_color=0d1117&title_color=00BFFF&text_color=FFFFFF&icon_color=00BFFF&hide_border=true"
-          width="100%"
-          alt="Project Two repository card"
-        />
-      </a>
-      <p><strong>Leafmark</strong></p>
-    </td>
+<!-- Leafmark -->
+<td width="33%" align="center" valign="top">
+  <a href="https://github.com/prathamrajak04/Leafmark">
+    <img
+      src="https://github-stats-extended.vercel.app/api/pin/?username=prathamrajak04&repo=Leafmark&theme=dark&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=FFFFFF&icon_color=00BFFF"
+      alt="Leafmark repository card"
+      width="100%"
+    />
+  </a>
+  <br/>
+  <strong>Leafmark</strong>
+</td>
 
   <td width="33%" align="center" valign="top">
       <a href="https://github.com/prathamrajak04/EpamCoE-Learning">
